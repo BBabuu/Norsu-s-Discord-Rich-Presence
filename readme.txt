@@ -5,7 +5,7 @@
      - Enable rich presence for your app and add some assets
 
 2 Edit the config file with the information from your newly registered app
-3 Run easyrp (it should open a cmd window)
+3 Run NorsuMenu (it should open a cmd window)
     - It *should* report errors from your config file (if there are any)
 4 Discord should show the game on your profile
 	- if not, add the exe as a game on discord and the file path should change to your presence
